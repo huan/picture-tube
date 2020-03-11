@@ -28,7 +28,7 @@
         "charm" : "~0.1.0",
         "png-js" : "~0.1.0",
         "x256" : "~0.0.1",
-        "request" : "~2.9.202",
+        "request" : "~2.88.2",
         "optimist" : "~0.3.4"
     },
     "devDependencies" : {
