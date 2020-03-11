@@ -29,7 +29,7 @@
         "png-js" : "~0.1.0",
         "x256" : "~0.0.1",
         "request" : "~2.9.202",
-        "optimist" : "~0.3.4"
+        "optimist" : "~0.6.1"
     },
     "devDependencies" : {
         "tap" : "~0.2.4"
